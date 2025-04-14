@@ -7,9 +7,11 @@ Projekta darbs  - atslēgu izsniegšanas sistēma
 ---
 ## Programmas funkcijas:
 -  Login page
--  Atslegu izsniegsanas sistema
+-  Admin page
+-  Darbariku izsniegsanas sistema
 -  Registracija datubazē
 ---
 *admin login:*
-epasts: mango@epasts.lv
-parole: Mango12345%
+
+epasts: Edgars@gmail.com
+parole: Mango1234!
